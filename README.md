@@ -18,6 +18,8 @@
 1. Клонируйте репозиторий и установите зависимости:
 
     ```bash
+    git clone https://github.com/AlexRaff/api_test_jeleapps.git
+    cd api_test_jeleapps
     composer install
     ```
 
