@@ -54,7 +54,7 @@
 ## Postman
 
 Для тестирования API доступна Postman коллекция:  
-[postman/Test API.postman_collection.json](postman/Test API.postman_collection.json)
+[postman/Test API.postman_collection.json](postman/TestAPI.postman_collection.json)
 
 ### Скриншоты запросов
 
