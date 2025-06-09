@@ -57,7 +57,7 @@
 ### Скриншоты запросов
 
 - Регистрация пользователя:  
-  ![Postman Register request](postman/register.jpg)
+  ![Postman Register request](postman/register.png)
 
 - Получение профиля пользователя:  
   ![Postman Profile request](postman/profile.png)
